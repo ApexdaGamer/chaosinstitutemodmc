@@ -29,9 +29,6 @@ import net.minecraftforge.common.MinecraftForge;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.network.FriendlyByteBuf;
 
-import net.mcreator.chaosinstitute.init.ChaosInstituteModItems;
-import net.mcreator.chaosinstitute.init.ChaosInstituteModBlocks;
-
 import java.util.function.Supplier;
 import java.util.function.Function;
 import java.util.function.BiConsumer;
@@ -49,9 +46,6 @@ public class ChaosInstituteMod {
 	public ChaosInstituteMod() {
 		MinecraftForge.EVENT_BUS.register(this);
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
-
-		ChaosInstituteModBlocks.REGISTRY.register(bus);
-		ChaosInstituteModItems.REGISTRY.register(bus);
 
 	}
 

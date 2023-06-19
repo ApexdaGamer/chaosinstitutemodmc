@@ -1,27 +1,9 @@
 {
-  "mod_elements": [
-    {
-      "name": "E",
-      "type": "block",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "e",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/chaos_institute/models/item/e.json",
-          "src/main/java/net/mcreator/chaosinstitute/block/EBlock.java",
-          "src/main/resources/assets/chaos_institute/blockstates/e.json",
-          "src/main/resources/assets/chaos_institute/models/block/e.json"
-        ]
-      }
-    }
-  ],
+  "mod_elements": [],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {
-      "block.chaos_institute.e": "E"
-    }
+    "en_us": {}
   },
   "foldersRoot": {
     "name": "~",
