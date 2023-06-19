@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[45,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="chaos_institute"
+version="1.0.0"
+displayName="Chaos Institute"
+credits="smqfl"
+displayURL="https://mcreator.net"
+authors="smqfl, zuzaratrust"
+
+[[dependencies.chaos_institute]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.4]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

@@ -1,0 +1,49 @@
+{
+  "mod_elements": [
+    {
+      "name": "E",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "e",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chaos_institute/models/item/e.json",
+          "src/main/java/net/mcreator/chaosinstitute/block/EBlock.java",
+          "src/main/resources/assets/chaos_institute/blockstates/e.json",
+          "src/main/resources/assets/chaos_institute/models/block/e.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.chaos_institute.e": "E"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "chaos_institute",
+    "modName": "Chaos Institute",
+    "version": "1.0.0",
+    "author": "smqfl, zuzaratrust",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.4",
+    "credits": "smqfl",
+    "modElementsPackage": "net.mcreator.chaosinstitute",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300224119
+}

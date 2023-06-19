@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "chaos_institute:block/singlestud",
+    "particle": "chaos_institute:block/singlestud"
+  },
+  "render_type": "solid"
+}
